@@ -1,4 +1,4 @@
-# applicationplanets
+# Applicativo Planetas
 
 Novo Projeto realizado para a materia de desenvolvimento de aplicativos moveis.
 
